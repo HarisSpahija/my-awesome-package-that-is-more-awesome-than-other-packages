@@ -14,6 +14,8 @@ my-awesome-package-that-is-more-awesome-than-other-packages -v
 
 Use the package manager [npm](https://www.npmjs.com) to install foobar.
 
+You can find the npm package release [here](https://www.npmjs.com/package/my-awesome-package-that-is-more-awesome-than-other-packages).
+
 ```bash
 npm install my-awesome-package-that-is-more-awesome-than-other-packages
 ```
