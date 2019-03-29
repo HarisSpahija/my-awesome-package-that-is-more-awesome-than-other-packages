@@ -1,7 +1,7 @@
 {
   "author": "Haris Spahija <haris.spahija@hybrit.org> (http://hybrit.org)",
   "name": "my-awesome-package-that-is-more-awesome-than-other-packages",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -7,7 +7,7 @@ my-awesome-package-that-is-more-awesome-than-other-packages is just another pack
 ```bash
 my-awesome-package-that-is-more-awesome-than-other-packages -v
 
-// 1.0.1
+// 1.0.5
 ```
 
 ## Installation
